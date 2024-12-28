@@ -1,2 +1,2 @@
 # delta-demo
-this is demo for git &amp; github classes
+this is demo for git &amp; github classes, apna college
